@@ -1,4 +1,7 @@
-"""Encrypts and Decrypts Morse Code"""
+"""
+Encrypts and Decrypts Morse Code. 
+ps: Morse code is not cryptography per say, however I thought it would be fun to make a CLI translator
+"""
 
 MORSE_CODE_DICT = { 'A':'.-', 'B':'-...',
                     'C':'-.-.', 'D':'-..', 'E':'.',
